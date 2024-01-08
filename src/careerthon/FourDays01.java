@@ -3,6 +3,7 @@ package careerthon;
 import java.util.Stack;
 
 public class FourDays01 {
+    //햄버거 만들기
     public int solution(int[] ingredient) {
         int answer = 0;
 
