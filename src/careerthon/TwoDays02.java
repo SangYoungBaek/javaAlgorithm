@@ -1,6 +1,7 @@
 package careerthon;
 
 public class TwoDays02 {
+    //서울에서 김서방 찾기
     public String solution(String[] seoul) {
         int answer = -1;
         int start = 0;

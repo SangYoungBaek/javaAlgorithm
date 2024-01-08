@@ -3,6 +3,7 @@ package careerthon;
 import java.util.Arrays;
 
 public class ThreeDays02 {
+    //과일 장수
     public int solution(int k, int m, int[] score) {
         int answer = 0;
         Arrays.sort(score);

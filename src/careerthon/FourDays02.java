@@ -4,6 +4,7 @@ import java.util.*;
 
 
 public class FourDays02 {
+    //할인 행사
     public int solution(String[] want, int[] number, String[] discount) {
         int answer = 0;
         int days = 10;
