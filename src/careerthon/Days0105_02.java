@@ -3,7 +3,7 @@ package careerthon;
 import java.util.*;
 
 
-public class FourDays02 {
+public class Days0105_02 {
     //할인 행사
     public int solution(String[] want, int[] number, String[] discount) {
         int answer = 0;
