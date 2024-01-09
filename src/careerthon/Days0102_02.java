@@ -2,7 +2,7 @@ package careerthon;
 
 import java.util.Arrays;
 
-public class OneDays02 {
+public class Days0102_02 {
     //문자열 내림차순으로 배치하기
     public String solution(String s) {
         String answer = "";

@@ -1,6 +1,6 @@
 package careerthon;
 
-public class OneDays01 {
+public class Days0102_01 {
     //약수의 개수와 덧셈
     public int solution(int left, int right) {
         int answer = 0;

@@ -1,6 +1,6 @@
 package careerthon;
 
-public class TwoDays01 {
+public class Days0103_01 {
     //푸드 파이트 대회
     public String solution(int[] food) {
         String answer = "";

@@ -4,6 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Days0108_02 {
+    //성격유형검사하기
     public String solution(String[] survey, int[] choices) {
         Map<Character, Integer> map = new HashMap<>();
 
