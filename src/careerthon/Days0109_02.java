@@ -3,7 +3,7 @@ package careerthon;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class Days0110_02 {
+public class Days0109_02 {
     //명예의 전당(1)
     public int[] solution(int k, int[] score) {
         int[] answer = new int[score.length];
